@@ -3,16 +3,15 @@
 ## Compile and Run
 
 MYps:
--
-make
-  ./MYps
+- make
+- ./MYps
 
 warmup:
-  gcc -o cpuinfo cpuinfo.c -Wall -Werror
-  ./cpuinfo
+  - gcc -o cpuinfo cpuinfo.c -Wall -Werror
+  - ./cpuinfo
 
-  gcc -o meminfo meminfo.c -Wall -Werror
-  ./meminfo
+  - gcc -o meminfo meminfo.c -Wall -Werror
+  - ./meminfo
 
 ## Design
 explain files and functions, overall design choices, programs flow
