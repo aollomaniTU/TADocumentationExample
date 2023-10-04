@@ -2,11 +2,11 @@
 
 ## Compile and Run
 
-MYps:
+MYps
 - make
 - ./MYps
 
-warmup:
+warmup
   - gcc -o cpuinfo cpuinfo.c -Wall -Werror
   - ./cpuinfo
 
