@@ -3,7 +3,8 @@
 ## Compile and Run
 
 MYps:
-  make
+-
+make
   ./MYps
 
 warmup:
